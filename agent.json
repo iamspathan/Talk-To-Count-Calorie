@@ -21,10 +21,11 @@
   },
   "defaultTimezone": "Asia/Almaty",
   "webhook": {
-    "available": false,
+    "url": "https://us-central1-calorie-counter-6f3fc.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
     "useForDomains": false,
-    "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": false
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
   "customClassifierMode": "use.after",

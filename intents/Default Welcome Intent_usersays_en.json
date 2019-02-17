@@ -68,7 +68,7 @@
       }
     ],
     "isTemplate": false,
-    "count": 0,
+    "count": 1,
     "updated": 0
   },
   {
@@ -172,18 +172,6 @@
     "data": [
       {
         "text": "hello there",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "1d2abca9-e1bf-43cb-8101-faa8e395cab7",
-    "data": [
-      {
-        "text": "hi there",
         "userDefined": false
       }
     ],

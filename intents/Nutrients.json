@@ -1,0 +1,28 @@
+{
+  "id": "b2e15c53-e595-483c-9d94-8b361545f891",
+  "name": "Nutrients",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549089151,
+  "fallbackIntent": false,
+  "events": []
+}

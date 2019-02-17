@@ -11,23 +11,42 @@
       "parameters": [],
       "messages": [
         {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Calorie Tips"
+            },
+            {
+              "title": "Food Item"
+            },
+            {
+              "title": "1kg Potato"
+            }
+          ]
+        },
+        {
           "type": 0,
           "lang": "en",
           "speech": [
-            "Hi! How are you doing?",
             "Hello! How can I help you?",
             "Good day! What can I do for you today?",
-            "Greetings! How can I assist?"
+            "Greetings! How can I assist?",
+            "Welcome to Count Calorie !  I think you need some good calorie Tips?"
           ]
         }
       ],
-      "defaultResponsePlatforms": {},
+      "defaultResponsePlatforms": {
+        "google": true
+      },
       "speech": []
     }
   ],
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
+  "lastUpdate": 1549089919,
   "fallbackIntent": false,
   "events": [
     {
